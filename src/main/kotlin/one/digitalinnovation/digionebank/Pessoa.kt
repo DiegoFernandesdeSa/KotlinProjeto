@@ -2,7 +2,7 @@ package one.digitalinnovation.digionebank
 
 class Pessoa {
     var name: String = "Diego"
-    var CPF: String = "383.876.908.-21"
+    var CPF: String = "222.222.222-21"
     private set
 
     constructor()
